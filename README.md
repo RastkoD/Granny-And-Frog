@@ -2,7 +2,7 @@
 
 #### Online shop using ReactJS
 
-### :rocket: [DEMO](https://crown-clothing-rd.herokuapp.com/)
+### :rocket: [DEMO](https://grannyandfrog.netlify.app/)
 
 # What I learned
 
