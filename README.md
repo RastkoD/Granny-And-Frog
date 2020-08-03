@@ -1,6 +1,6 @@
-# Crown Clothing - ecommerce website
+# Granny And Frog - ecommerce website
 
-#### Online shop using ReactJS - Udemy Project
+#### Online shop using ReactJS
 
 ### :rocket: [DEMO](https://crown-clothing-rd.herokuapp.com/)
 
