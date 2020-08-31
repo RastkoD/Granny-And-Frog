@@ -1,6 +1,6 @@
 # Granny And Frog - ecommerce website
 
-#### Online shop using ReactJS
+#### Gift shop using ReactJS
 
 ### :rocket: [DEMO](https://grannyandfrog.netlify.app/)
 
