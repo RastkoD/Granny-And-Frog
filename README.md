@@ -14,5 +14,5 @@
 - [x] Deploying To Production(Heroku), GitHub
 - [x] Node.js(express), Creating And Building a Server Inside The Project, Axios
 - [x] Backend Payment Route
-- [ ] Notable deficiency - Responsiveness, Contact Page, Single Prod. Page
+- [ ] Notable deficiency - Responsiveness, Contact Page, Single Prod. Page, Footer
 
